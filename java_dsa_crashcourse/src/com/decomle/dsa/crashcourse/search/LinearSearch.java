@@ -1,4 +1,4 @@
-package com.decomle.dsa.crashcourse;
+package com.decomle.dsa.crashcourse.search;
 
 public class LinearSearch {
     public static void main(String[] args) {

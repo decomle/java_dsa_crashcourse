@@ -1,8 +1,9 @@
-package com.decomle.dsa.crashcourse;
+package com.decomle.dsa.crashcourse.search;
 
 public class BinarySearch {
     public static void main(String[] args) {
-        // Binary search will need sorted array. Very good for large dataset O(log(n)).
+        // Binary search will need sorted array. Very good for large dataset
+        // Big O Notation: O(log(n)).
         // Be aware that java.util.Arrays already provided a function for binary search
 
         int[] arrays = new int[1000000];
