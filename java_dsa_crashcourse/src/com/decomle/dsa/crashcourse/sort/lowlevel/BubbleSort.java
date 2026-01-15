@@ -1,7 +1,8 @@
-package com.decomle.dsa.crashcourse.sort;
+package com.decomle.dsa.crashcourse.sort.lowlevel;
 
 public class BubbleSort {
     // Big O Notation: O(n^2)
+    // Good for small array
     public static void main(String[] args) {
         int[] array = {1, 9, 8, 2, 5, 3, 10, 15, 22, 1};
 
